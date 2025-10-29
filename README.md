@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋🏻 </h1>
 <p align="center">
-I'm a software engineer with a unique background that combines, technical expertise with exceptional people skills.
+I'm a software engineer with a unique background that combines, technical expertise with exceptional people skills.<br>
 Specializing in full-stack development with the MERN stack, I create responsive applications that prioritize functionality and deliver user-centered digital solutions.
 
 <!--
