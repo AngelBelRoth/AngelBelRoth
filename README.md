@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 # 💫 About Me:
-📊 I am currently working on my full-stack platform that matches businesses based on interest alignment.<br>
+👩🏻‍💻 I am currently working on my full-stack platform that matches businesses based on interest alignment.<br>
 🦎 Ask me about Upgrade Lab Maine<br>
 ✨ Fun Fact: I've been to 27% of the world / 53 countries
 
@@ -41,13 +41,11 @@ Here are some ideas to get you started:
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AngelBelRoth&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
 
-## 🏆 GitHub Trophies
+### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AngelBelRoth&theme=ambient_gradient&no-frame=true&no-bg=true&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AngelBelRoth&icon=7&color=10)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
+### 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/ANGELIQUEBEL) 
-  
 </p>
