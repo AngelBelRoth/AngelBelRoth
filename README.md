@@ -1,4 +1,8 @@
 ## Hi there 👋
+I'm a software engineer with a unique background that combines, technical expertise with exceptional people skills.
+I have years of experience in hospitality, sales, and marketing. 
+My time as a flight attendant taught me to stay composed under pressure, think critically in fast-paced situations, and solve complex problems— skills I now apply to debugging code and building scalable web applications.
+I bring attention to detail, strong communication, and a collaborative mindset to every project. Specializing in full-stack development with the MERN stack, I create responsive applications that prioritize functionality and deliver user-centered digital solutions.
 
 <!--
 **AngelBelRoth/AngelBelRoth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,10 +17,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+📖 I am currently learning how to scale-up a business<br>
 -->
 
+
 # 💫 About Me:
-📊 I am currently working on my full-stack platform that matches businesses based on interest alignment.<br>📖 I am currently learning how to scale-up a business<br>🦎 Ask me about Upgrade Lab Maine<br>✨ Fun Fact: I've been to 27% of the world / 53 countries
+📊 I am currently working on my full-stack platform that matches businesses based on interest alignment.<br>
+🦎 Ask me about Upgrade Lab Maine<br>
+✨ Fun Fact: I've been to 27% of the world / 53 countries
 
 
 ## 🌐 Socials:
@@ -40,6 +48,5 @@ Here are some ideas to get you started:
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/ANGELIQUEBEL) 
-
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
