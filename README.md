@@ -1,7 +1,8 @@
 <h1 align="center">Hi there 👋🏻 </h1>
 <p align="center">
 I'm a software engineer with a unique background that combines, technical expertise with exceptional people skills.<br>
-Specializing in full-stack development with the MERN stack, I create responsive applications that prioritize functionality and deliver user-centered digital solutions.
+Specializing in full-stack development with the MERN stack,<br>
+  I create responsive applications that prioritize functionality and deliver user-centered digital solutions.
 
 <!--
 **AngelBelRoth/AngelBelRoth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
