@@ -1,4 +1,4 @@
-## Hi there 👋
+<h1 align="center">## Hi there 👋🏻 </h1>
 <p align="center">
 I'm a software engineer with a unique background that combines, technical expertise with exceptional people skills.
 I have years of experience in hospitality, sales, and marketing. 
