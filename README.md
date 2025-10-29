@@ -4,7 +4,7 @@ I'm a software engineer with a unique background that combines, technical expert
 I have years of experience in hospitality, sales, and marketing. 
 My time as a flight attendant taught me to stay composed under pressure, think critically in fast-paced situations, and solve complex problems— skills I now apply to debugging code and building scalable web applications.
 I bring attention to detail, strong communication, and a collaborative mindset to every project. Specializing in full-stack development with the MERN stack, I create responsive applications that prioritize functionality and deliver user-centered digital solutions.
-</p>
+
 <!--
 **AngelBelRoth/AngelBelRoth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -50,4 +50,4 @@ Here are some ideas to get you started:
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/ANGELIQUEBEL) 
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</p>
