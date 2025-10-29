@@ -1,9 +1,7 @@
 <h1 align="center">Hi there 👋🏻 </h1>
 <p align="center">
 I'm a software engineer with a unique background that combines, technical expertise with exceptional people skills.
-I have years of experience in hospitality, sales, and marketing. 
-My time as a flight attendant taught me to stay composed under pressure, think critically in fast-paced situations, and solve complex problems— skills I now apply to debugging code and building scalable web applications.
-I bring attention to detail, strong communication, and a collaborative mindset to every project. Specializing in full-stack development with the MERN stack, I create responsive applications that prioritize functionality and deliver user-centered digital solutions.
+Specializing in full-stack development with the MERN stack, I create responsive applications that prioritize functionality and deliver user-centered digital solutions.
 
 <!--
 **AngelBelRoth/AngelBelRoth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
