@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 -->
 
 
-# 💫 About Me:
+<h1 align="center">💫 About Me:</h1>
 👩🏻‍💻 I am currently working on my full-stack platform that matches businesses based on interest alignment.<br>
 🦎 Ask me about Upgrade Lab Maine<br>
 ✨ Fun Fact: I've been to 27% of the world / 53 countries
