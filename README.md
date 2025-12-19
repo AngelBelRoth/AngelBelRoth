@@ -12,9 +12,8 @@
 -->
 
 
-<h1 align="center"></h1>
+<h1 align="center">🦎 Ask me about Upgrade Lab Maine</h1>
 
-🦎 Ask me about Upgrade Lab Maine<br>
 
 
 ## 🌐 Socials:
