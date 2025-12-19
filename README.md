@@ -1,8 +1,3 @@
-<h1 align="center">Hi there 👋🏻 </h1>
-<p align="center">
-I'm a software engineer with a unique background that combines, technical expertise with exceptional people skills.<br>
-Specializing in full-stack development with the MERN stack,<br>
-  I create responsive applications that prioritize functionality and deliver user-centered digital solutions.
 
 <!--
 - 🔭 I’m currently working on ...
@@ -17,10 +12,9 @@ Specializing in full-stack development with the MERN stack,<br>
 -->
 
 
-<h1 align="center">⭐️ About Me ⭐️</h1>
-👩🏻‍💻 I am currently working on my full-stack platform that matches businesses based on interest alignment.<br>
+<h1 align="center"></h1>
+
 🦎 Ask me about Upgrade Lab Maine<br>
-✨ Fun Fact: I've been to 27% of the world / 53 countries
 
 
 ## 🌐 Socials:
